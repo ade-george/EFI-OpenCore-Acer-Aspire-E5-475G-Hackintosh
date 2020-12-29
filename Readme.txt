@@ -23,11 +23,11 @@ Brightness
 Battery Indicator
 Brightness Button Up / Down
 Ethernet
-Wifi
 Bluetooth
 All USB Port
 Etc
 Not Work??
+wifi
 Nvidia GT940MX (Nvidia Optimus is not Supported by Hackintosh)
 Restart
 Etc
